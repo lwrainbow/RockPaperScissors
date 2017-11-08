@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Rock Paper Scissors</title>
+	<link rel="stylesheet" href="css/myStyle.css">
+</head>
+<body>
+	<h1>Rock Paper Scissors</h1>
+	<p></p>
+	<div>
+		<img id="computer" src="image/computer.png" alt="computer">
+	</div>
+	<div>
+		<ul>
+			<li onClick="choose(1)">
+				<img id="rock" src="image/rock.png" alt="rock">
+			</li>
+			<li onClick="choose(2)">
+				<img id="scissor" src="image/scissor.png" alt="scissor">
+			</li>
+			<li onClick="choose(3)">
+				<img id="paper" src="image/paper.png" alt="paper">
+			</li>
+		</ul>
+	</div>
+	<footer>
+		<ul>
+			<li>
+				<span>Win</span>
+				<p id="win">0</p>
+			</li>
+			<li>
+				<span>Tie</span>
+				<p id="tie">0</p>
+			</li>
+			<li>
+				<span>Lose</span>
+				<p id="lose">0</p>
+			</li>
+		</ul>
+	</footer>
+	<input type="button" value="Next Round" onclick="reset();">
+	<script src="js/game.js"></script>
+</body>
+</html>

@@ -1,0 +1,113 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-image: url(../image/background.jpg);
+	background-size: cover;
+	-webkit-background-size: cover;	
+	margin: auto 2%;
+}
+
+h1 {
+	text-align: center;
+	font-size: 60px;
+}
+
+ul {
+	list-style: none;
+}
+
+img {
+	width: 180px;
+	height: 180px;
+	border-style: hidden;
+}
+
+#computer {
+	position: relative;
+	left: 50%;
+	margin-left: -90px;
+}
+
+#rock {
+	position: absolute;
+	left: 25%;
+	margin-left: -100px;
+}
+
+#scissor {
+	position: absolute;
+	left: 50%;
+	margin-left: -100px;
+}
+
+#paper{
+	position: relative;
+	left: 75%;
+	margin-left: -100px;
+}
+
+footer {
+	position: relative;
+}
+
+footer ul {
+	position: absolute;
+	left: 50%;
+	margin-left: -22%;
+}
+
+footer ul li {
+	float: left;
+	display: inline;
+	margin: auto 40px;
+	text-align: center;
+	font-family: Calibri;
+	color: #34352C;
+	font-size: 50px;
+}
+
+input {
+	margin-top: 6%;
+	margin-left: 70%;
+	position: relative;
+	width: 10%;
+	height: 60px;
+	font-size: 20px;
+	border: dashed;
+	background-color: transparent;
+}
+
+@media only screen and (min-width: 1242px)and (max-width:1336px){
+	img{
+		width: 160px;
+		height: 160px;
+	}
+	footer ul li {
+		font-size: 40px;
+	}
+	input{
+		font-size: 16px;
+		height: 44px;
+	}
+}
+
+
+@media only screen and (max-width: 1242px){
+	
+	img{
+		width: 160px;
+		height: 160px;
+	}
+	footer ul li {
+		margin: auto 20px;
+		font-size: 20px;
+	}
+	input{
+		margin-top: 100px;
+		margin-left: 34%;
+		position: absolute;
+		font-size: 18px;
+		width: 160px;
+		height: 44px;
+	}
+}
