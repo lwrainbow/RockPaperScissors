@@ -8,7 +8,7 @@ There has<br>
 •	A js file that contains my javascript code<br>
 # Layout and design
 <img width="1440" alt="interface" src="https://user-images.githubusercontent.com/25212857/32581200-dcc24322-c4b6-11e7-8d81-d682b674b5b1.png">
-•	Present the user with three pictures on screen.<br>
+•	Present the user with three pictures on screen<br>
 o	A rock<br>
 o	A piece of paper<br>
 o	A pair of scissors<br>
