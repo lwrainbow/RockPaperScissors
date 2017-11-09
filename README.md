@@ -7,7 +7,8 @@ There has:
   <li>An html file that the user will interact with</li>
   <li>A js file that contains my javascript code</li>
 </ul>
-## Layout and design
+
+<h2>Layout and design</h2>
 <img width="1440" alt="interface" src="https://user-images.githubusercontent.com/25212857/32581200-dcc24322-c4b6-11e7-8d81-d682b674b5b1.png">
 <ul>
   <li>Present the user with three pictures on screen</li>
@@ -24,7 +25,8 @@ There has:
   </ul>
   <li>Some sort of visual Feedback each round saying who won.</li>
 </ul>
-## Program flows
+
+<h2>Program flows</h2>
 <ul>
   <li>The player is presented with three pictures and clicks on one.</li>
   <li>The computer randomly generates one of the three options, Rock, paper, or scissors.</li>
