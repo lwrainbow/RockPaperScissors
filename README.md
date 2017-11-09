@@ -1,5 +1,5 @@
 # RockPaperScissors
-<p>Create a Rock Paper Scissors game in javascript</p>
+<p>Created a Rock Paper Scissors game in javascript.</p>
 <p><a href="http://lianxiao.dev.fast.sheridanc.on.ca/portfolio/RockPaperScissors/index.html">Play</a></p>
 There has:
 <ul>
