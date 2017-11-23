@@ -1,6 +1,6 @@
 # RockPaperScissors
 <p>Created a Rock Paper Scissors game in javascript.</p>
-<p><a href="http://lianxiao.dev.fast.sheridanc.on.ca/portfolio/RockPaperScissors/index.html">Play</a></p>
+<p><a href="http://lianxiao.dev.fast.sheridanc.on.ca/xiaoyu/RockPaperScissors/index.html">Play</a></p>
 There has:
 <ul>
   <li>A css file which contains all of my style code</li>
